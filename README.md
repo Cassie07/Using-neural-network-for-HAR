@@ -3,7 +3,7 @@ Human activity recognition(LSTM, BidLSTM, BidLSTM+CNN, LSTM+CNN)
 
 dataset: UCI HAR
 
-nerual network: LSTM, Bidirection LSTM, LSTM+CNN, Bidirection LSTM+CNN(.py)
+neural network: LSTM, Bidirection LSTM, LSTM+CNN, Bidirection LSTM+CNN(.py)
 
 data.py: preprocessing for dataset
 
